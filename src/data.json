@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bowser",
+    "image": "https://s3.amazonaws.com/react-clicky/bowser.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Daisy",
+    "image": "https://s3.amazonaws.com/react-clicky/daisy.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Donkey Kong",
+    "image": "https://s3.amazonaws.com/react-clicky/donkey_kong.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Goomba",
+    "image": "https://s3.amazonaws.com/react-clicky/goomba.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Koopa Troopa",
+    "image": "https://s3.amazonaws.com/react-clicky/koopa_troopa.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Luigi",
+    "image": "https://s3.amazonaws.com/react-clicky/luigi.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Mario",
+    "image": "https://s3.amazonaws.com/react-clicky/mario.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Peach",
+    "image": "https://s3.amazonaws.com/react-clicky/peach.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Rosalina",
+    "image": "https://s3.amazonaws.com/react-clicky/rosalina.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Toad",
+    "image": "https://s3.amazonaws.com/react-clicky/toad.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Wario",
+    "image": "https://s3.amazonaws.com/react-clicky/wario.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Yoshi",
+    "image": "https://s3.amazonaws.com/react-clicky/yoshi.png",
+    "clicked": false
+  }
+]
